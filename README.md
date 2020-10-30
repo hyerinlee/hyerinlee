@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+
+📖 I’m currently brushing up on Computer science fundamentals.  
+🌱 I’m a beginner in Unity3D, DirectX and Blender.  
+❤ I’m interested in Graphic design.
 
 <!--
-**hyerinlee/hyerinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyerinlee/hyerinlee** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
